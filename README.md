@@ -12,6 +12,14 @@ This [dataset](https://archive.ics.uci.edu/dataset/882/large-scale+wave+energy+f
 
 ## **Exploratory Data Analysis (EDA)**
 Dataset contains no null or missing values.
+
+Distribution of the total power output
 ![output_16_1](EDA/output_16_1.png)
+
+Total Power Output Boxplot
+![output_19_1](EDA/output_19_1.png)
+
+Layout of the Wave Energy Converters (WEC)
+![output_25_0](EDA/output_25_0.png)
 
 
