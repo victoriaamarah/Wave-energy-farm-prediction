@@ -25,4 +25,11 @@ Total Power Output Boxplot:
 Layout of the Wave Energy Converters (WEC):
 ![output_25_0](EDA/output_25_0.png)
 
+Correlation Heatmap:
+
+![output_34_0](EDA/output_34_0.png)
+
+
+## **Result**
+
 
