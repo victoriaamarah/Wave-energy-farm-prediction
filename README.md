@@ -12,6 +12,6 @@ This [dataset](https://archive.ics.uci.edu/dataset/882/large-scale+wave+energy+f
 
 ## **Exploratory Data Analysis (EDA)**
 Dataset contains no null or missing values.
-
+![output_16_1](EDA/output_16_1.png)
 
 
