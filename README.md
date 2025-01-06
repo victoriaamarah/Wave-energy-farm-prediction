@@ -7,7 +7,11 @@ Wave energy is a rapidly advancing and promising renewable energy source that ho
 
 
 ## **Dataset**
-This [dataset](https://archive.ics.uci.edu/dataset/882/large-scale+wave+energy+farm) which i got from  the UCI repository, was derived from a study published at the GECCO conference. It includes 54,000 and 9,600 configurations involving 49 and 100 WECs, coordination, power, q-factor, and total farm power output. The dataset consists of features representing wave characteristics, distances, and other operational parameters, along with the target variable: **Energy Output (Target)**. For this project, I used the 'WEC_Sydney_49' dataset. Please note that other datasets included in the '[Large-scale Wave Energy Farm]'(https://archive.ics.uci.edu/dataset/882/large-scale+wave+energy+farm) data can also be used. 
+This [dataset](https://archive.ics.uci.edu/dataset/882/large-scale+wave+energy+farm) which i got from  the UCI repository, was derived from a study published at the GECCO conference. It includes 54,000 and 9,600 configurations involving 49 and 100 WECs, coordination, power, q-factor, and total farm power output. The dataset consists of features representing wave characteristics, distances, and other operational parameters, along with the target variable: **Energy Output (Target)**. For this project, I used the 'WEC_Sydney_49' dataset. Please note that other datasets included in the ['Large-scale Wave Energy Farm'](https://archive.ics.uci.edu/dataset/882/large-scale+wave+energy+farm) data can also be used. 
+
+
+## **Exploratory Data Analysis (EDA)**
+Dataset contains no null or missing values.
 
 
 
