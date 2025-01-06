@@ -32,4 +32,11 @@ Correlation Heatmap:
 
 ## **Result**
 
+Learning Curves before applying Ridge:
+![EDA/output_50_0](EDA/output_50_0.png)
+
+Learning Curves after applying Ridge:
+
+![EDA/output_52_1](EDA/output_52_1.png)
+
 
