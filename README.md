@@ -3,7 +3,7 @@
 ---
 
 ## **Introduction**
-Wave energy is a rapidly advancing and promising renewable energy source that holds great potential for addressing the challenges of global warming and climate change. However, optimizing energy output in large wave farms presents a complex problem due to the expensive calculations required to account for hydrodynamic interactions between wave energy converters (WECs).This project employs data preprocessing, feature engineering and regularization to create a model that generalizes well to unseen data. My main goal was to predict the total power output of the wave farm.
+Wave energy is a rapidly advancing and promising renewable energy source that holds great potential for addressing the challenges of global warming and climate change. However, optimizing energy output in large wave farms presents a complex problem due to the expensive calculations required to account for hydrodynamic interactions between wave energy converters (WECs).This project employs data preprocessing, feature engineering and regularization to create a model that generalizes well to unseen data. My main goal was to predict the total power output of the wave farm. I used a linear regression model to achieve this.
 
 
 ## **Dataset**
